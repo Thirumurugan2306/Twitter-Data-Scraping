@@ -3,12 +3,11 @@ This is a Twitter Scraper app built with Python using the Snscrape and Streamlit
 Installation
 To install the necessary libraries, run the following command in your terminal:
 
-Copy code
+
 pip install snscrape pymongo pandas streamlit
 Usage
 To run the app, run the following command in your terminal:
 
-Copy code
 streamlit run app.py
 This will open the app in your browser.
 
